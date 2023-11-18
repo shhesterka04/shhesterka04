@@ -95,11 +95,11 @@
   </a>
 
   <a href="https://www.latex-project.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="60" height="40"/>
   </a>
 
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> 
-    <img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" alt="bs4" width="40" height="40"/>
+    <img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" alt="bs4" width="60" height="40"/>
   </a>
 </p>
 
