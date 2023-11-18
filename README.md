@@ -8,7 +8,7 @@
 ## Main stack
 <p>
   <a href="https://go.dev/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" alt="golang" width="40" height="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" alt="golang" width="70" height="40"/>
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank"> 
