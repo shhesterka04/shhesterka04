@@ -8,7 +8,7 @@
 ## Main stack
 <p>
   <a href="https://go.dev/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" alt="golang" width="90" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" alt="golang" width="40" height="20"/>
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank"> 
@@ -95,7 +95,7 @@
   </a>
 
   <a href="https://www.latex-project.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="20"/>
   </a>
 
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> 
