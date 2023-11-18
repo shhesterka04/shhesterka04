@@ -3,12 +3,12 @@
 ### Backend developer
 
 ## CV
-[LINK]
+[LINK]()
 
-## Main stack
+## 👨‍💻 Main stack
 <p>
   <a href="https://go.dev/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" alt="golang" width="70" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" alt="golang" width="80" height="40"/>
   </a>
   
   <a href="https://www.postgresql.org/" target="_blank"> 
@@ -48,7 +48,7 @@
   </a>
 </p>
 
-## Other skills
+## 🛠 Other skills
 <p>
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
@@ -95,28 +95,28 @@
   </a>
 
   <a href="https://www.latex-project.org/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="60" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="80" height="40"/>
   </a>
 
   <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"> 
-    <img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" alt="bs4" width="60" height="40"/>
+    <img src="https://funthon.files.wordpress.com/2017/05/bs.png?w=772" alt="bs4" width="100" height="40"/>
   </a>
 </p>
 
-## Research Experience
+## 👨‍🔬 Research Experience
 - Researcher at [MISIS](https://misis.ru/) x [Russian Quantum Center](https://www.rqc.ru/) (October 2023 - Present day)
     - Continuous Monitoring System Development for Intermediate-Scale Quantum Processors
     - Handling Synthetic and Experimental Data
     - Adaptation for Qudit Processor
 
-## Education
+## 👨‍🎓 Education
 - [OZON Route 256](https://route256.ozon.ru/), Go Junior (September 2023 - November 2023)
 - [MISIS](https://misis.ru/), Applied Math (Since 2021)
 - [School 21](https://21-school.ru/), Python Crash course (April 2023)
 - [Stepik, Interactive SQL trainer](https://stepik.org/course/63054/promo) (March 2022 - April 2022)
 - [Coursera, MIPT](https://www.coursera.org/), Deep dive in Python (September 2021- January 2022)
 
-## Projects
+## 🐶 Projects
 - [Spaced repetition with flashcards. Developed with support for both HTTP and gRPC protocols. Integrating Kafka enhances real-time data streaming capabilities](https://github.com/shhesterka04/flash-card-manager) <br>
 (Go: gRPC + RESTful gateway, postgres, goose,kafka, docker, zap, gomock, testify, jaeger; Make)
 - [Custom caching and data storage implementation developed using Go](https://github.com/shhesterka04/own-database-cache) <br> (Go)
