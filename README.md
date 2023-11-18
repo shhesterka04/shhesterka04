@@ -1,4 +1,4 @@
-# Eroshkin Artem
+# Eroshkin Artyom
 
 ### Backend developer
 
