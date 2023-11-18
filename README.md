@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Main stack
 <p>
-  <a href="https://go.dev/" target="_blank"> 
+  <a href="https://go.dev/" target="_blank" style="margin-right: 5px;"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/429px-Go_Logo_Blue.svg.png" alt="golang" width="80" height="40"/>
   </a>
   
