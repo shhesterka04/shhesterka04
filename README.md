@@ -121,7 +121,7 @@
 (Go: gRPC + RESTful gateway, postgres, goose,kafka, docker, zap, gomock, testify, jaeger; Make)
 - [Custom caching and data storage implementation developed using Go](https://github.com/shhesterka04/own-database-cache) <br> (Go)
 - [RESTful service for recording orders and couriers and distributing orders among couriers](https://github.com/shhesterka04/restapi_delivery) <br> (Python: fastapi, pydantic, pytest, docker, postgres)
-- [Generation of new quantum algorithms]() (Python: Qiskit)
+- [Generation of new quantum algorithms](https://github.com/shhesterka04/Quantum-Insights) (Python: Qiskit)
 - [Telegram bot for generating a report based on csv of the Toggl application](https://github.com/shhesterka04/review_helper) <br> (Python: telebot, pandas, matplotlib)
 - [Backend for the Sber Salute smart app "Moscow bus routes"](https://github.com/shhesterka04/mostrans-salute) <br> (Python: FastAPI, BS4, Selenium)
 - [A Qt application that calculates the optimal BJU individually and offers a unique correct menu based on a recipe database](https://github.com/shhesterka04/food-manager) <br> (C++: Qt, CMake)
