@@ -124,7 +124,7 @@
 - [Generation of new quantum algorithms](https://github.com/shhesterka04/Quantum-Insights) (Python: Qiskit)
 - [Telegram bot for generating a report based on csv of the Toggl application](https://github.com/shhesterka04/review_helper) <br> (Python: telebot, pandas, matplotlib)
 - [Backend for the Sber Salute smart app "Moscow bus routes"](https://github.com/shhesterka04/mostrans-salute) <br> (Python: FastAPI, BS4, Selenium)
-- [A Qt application that calculates the optimal BJU individually and offers a unique correct menu based on a recipe database](https://github.com/shhesterka04/food-manager) <br> (C++: Qt, CMake)
+- [A Qt application that calculates the optimal macronutrients individually and offers a unique correct menu based on a recipe database](https://github.com/shhesterka04/food-manager) <br> (C++: Qt, CMake)
 - [Telegram bot for renting books with access to database + flask server](https://github.com/shhesterka04/book-booking) <br> (Python: telebot, flask, sqlalchemy)
 
 ## Languages
