@@ -48,7 +48,7 @@
   </a>
 
   <a href="https://www.linux.org/" target="_blank" style="margin-right: 10px;"> 
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/240px-Grafana_logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png)" alt="linux" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png" alt="linux" width="40" height="40"/>
   </a>
 </p>
 
