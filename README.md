@@ -107,6 +107,10 @@
   </a>
 </p>
 
+## 👨‍💻 Work experience
+- Golang Backend Developer at [Wimark Systems]([https://wimark.com/company]) (December 2023 - Present day)
+
+
 ## 👨‍🔬 Research Experience
 - Researcher at [MISIS](https://misis.ru/) x [Russian Quantum Center](https://www.rqc.ru/) (October 2023 - Present day)
     - Continuous Monitoring System Development for Intermediate-Scale Quantum Processors
