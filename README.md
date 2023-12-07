@@ -108,7 +108,7 @@
 </p>
 
 ## 👨‍💻 Work experience
-- Golang Backend Developer at [Wimark Systems]([https://wimark.com/company]) (December 2023 - Present day)
+- Golang Backend Developer at [Wimark Systems](https://wimark.com/company) (December 2023 - Present day)
 
 
 ## 👨‍🔬 Research Experience
