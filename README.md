@@ -3,7 +3,7 @@
 ### Backend developer
 
 ## CV
-[LINK](https://drive.google.com/file/d/1d4UER_PYCGPcxGinLShjCmlaLYw-AaTw/view?usp=sharing)
+[LINK](https://drive.google.com/file/d/1FPNH2HKtSN9N_AFbSwCb_pMCCMdayjX-/view?usp=sharing)
 
 ## 👨‍💻 Main stack
 <p>
