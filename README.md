@@ -109,9 +109,9 @@
 
 ## 👨‍💻 Work experience
 - Golang Backend Developer at [Wimark Systems](https://wimark.com/company) (December 2023 - Present day)
-  - Development and testing of Wimark products like Wimark One and WLC
-  - Built and maintained test environments for effective code verification, testing, and integration
-  - Conducted code evaluation and refinement, enhancing documentation for improved clarity and maintainability
+  - Configure the wireless interface in Linux for Cisco
+  - Provide the necessary configuration for configuring Wi-Fi interfaces
+  - Specify and configure legacy mode
 
 
 ## 👨‍🔬 Research Experience
