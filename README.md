@@ -115,7 +115,7 @@
 
 
 ## 👨‍🔬 Research Experience
-- Researcher at [MISIS](https://misis.ru/) x [Russian Quantum Center](https://www.rqc.ru/) (October 2023 - Present day)
+- Researcher at [MISIS](https://misis.ru/) x [Russian Quantum Center](https://www.rqc.ru/) (October 2023 - January 2024)
     - Continuous Monitoring System Development for Intermediate-Scale Quantum Processors
     - Handling Synthetic and Experimental Data
     - Adaptation for Qudit Processor
